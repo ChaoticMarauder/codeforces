@@ -1,2 +1,2 @@
 # codeforces
- solution to codeforces problems in C++
+ solution to algorithmic problems in Python
